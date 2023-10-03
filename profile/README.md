@@ -47,11 +47,10 @@ The philosophy behind Sentient is roughly described [here](https://docs.google.c
   </tr>
 </table>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->  
+
 
 ## Contribute
 
