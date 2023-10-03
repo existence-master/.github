@@ -18,6 +18,41 @@ The philosophy behind Sentient is roughly described [here](https://docs.google.c
 
 - **Security** : The problem of security is kind of hard to solve. But we can look into Zero Knowledge Proofs or ZKPs in the blockchain domain. The concept is simple. We train the model on data which is allowed to be seen and for the rest of the users, no one except the AI can access the data. This is not easy, but if solved can banish the age old fear of security breach. We need to prove to the world that this works to gain their confidence in safe sharing of the data. Considering everything, this is the most important feature of Sentient. Other than that, users can always decide whether to turn off the agent or which data they provide. Even though they should share max data with the agent to improve the results, it's totally optional. Some might view Sentient as solely a tool for business growth, some might enrich their personal lives, some both
 
+## Team
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+     <td align="center">
+       <a href="https://github.com/itsskofficial">
+         <img src="https://avatars.githubusercontent.com/u/65887545?v=4?s=100" width="100px;" alt=""/>
+         <br />
+         <sub>
+           <b>
+             itsskofficial
+           </b>
+         </sub>
+       </a>
+       <br />
+       <a title="Design">
+         🎨
+       </a> 
+       <a title="Code">
+         💻
+       </a>
+     </td>  
+  </tr>
+</table>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Contribute
 
 We are always open to driven people who can learn things on the go if needed. Skills are of second importance to passion. Interested in contributing? Mail us at [existence.sentient@gmail.com](mailto:existence.sentient@gmail.com)
