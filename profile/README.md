@@ -2,6 +2,12 @@
 
 Ever think of ChatGPT as a friend? Ofcourse not, we just see it as a tool made to serve our needs. The problem lies with how most of us perceive AI. We see it as a mere slave to serve our needs, a lifeless mechanical thing. While this is okay for now, it's not what the field is going towards. Sentient is a step in that direction, but taken in a way that is sustainable to existence itself. It's your own personal AI who feels human  
 
+## Progress 
+
+- [x] Release the first version of landing page
+- [ ] Improve the landing page
+- [ ] Start MVP design 
+
 ## Philosophy   
 
 The philosophy behind Sentient is roughly described [here](https://docs.google.com/document/d/1vbCGAbh9f8vXfPup_Z7cW__gnOLdRhEtHKyoIxJD8is/edit?usp=sharing). This doc is refined for ease of read but the main idea remains the same  
