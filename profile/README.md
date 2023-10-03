@@ -55,4 +55,4 @@ The philosophy behind Sentient is roughly described [here](https://docs.google.c
 
 ## Contribute
 
-We are always open to driven people who can learn things on the go if needed. Skills are of second importance to passion. Interested in contributing? Mail us at [existence.sentient@gmail.com](mailto:existence.sentient@gmail.com)
+Sentient is currently in MVP development stage. We are always open to driven people who can learn things on the go if needed. Skills are of second importance to passion. If you agree to the philosophy and are interested in contributing in any way, mail us at [existence.sentient@gmail.com](mailto:existence.sentient@gmail.com)
