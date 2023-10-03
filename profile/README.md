@@ -4,9 +4,9 @@ Ever think of ChatGPT as a friend? Ofcourse not, we just see it as a tool made t
 
 ## Progress 
 
-- [x] Release the first version of landing page
-- [ ] Improve the landing page
-- [ ] Start MVP design 
+- [x] Released the first version of landing page. Check [this](https://github.com/existence-sentient/sentient-web) out
+- [ ] Improving the landing page
+- [ ] Starting MVP design 
 
 ## Philosophy   
 
