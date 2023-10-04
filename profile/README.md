@@ -10,7 +10,7 @@ Ever think of ChatGPT as a friend? Ofcourse not, we just see it as a tool made t
 
 ## Progress 
 
-Check [this](https://github.com/existence-master/sentient-web) out
+Check the repository [sentient-web](https://github.com/existence-master/sentient-web)
 
 
 ## Philosophy   
