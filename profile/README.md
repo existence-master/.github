@@ -1,12 +1,17 @@
-![Github Banner](/profile/banner.png)  
+![Existence Github Banner](/profile/existence-banner.png)
+
+At Existence, our vision is to push the boundaries of technology to shape the future of existence. We're dedicated to creating groundbreaking products that redefine how we perceive and interact with the world. Currently working on Sentient, an AI which aims to be the future AGI with a bias towards existence and evolution
+
+# Sentient
+
+![Sentient Github Banner](/profile/sentient-banner.png)  
 
 Ever think of ChatGPT as a friend? Ofcourse not, we just see it as a tool made to serve our needs. The problem lies with how most of us perceive AI. We see it as a mere slave to serve our needs, a lifeless mechanical thing. While this is okay for now, it's not what the field is going towards. Sentient is a step in that direction, but taken in a way that is sustainable to existence itself. It's your own personal AI who feels human  
 
 ## Progress 
 
-- [x] Released the first version of landing page. Check [this](https://github.com/existence-sentient/sentient-web) out
-- [ ] Improving the landing page
-- [ ] Starting MVP design 
+Check [this](https://github.com/existence-master/sentient-web) out
+
 
 ## Philosophy   
 
@@ -23,40 +28,6 @@ The philosophy behind Sentient is roughly described [here](https://docs.google.c
 - **Automation** : Giving access to our personal life also implies automation. With Sentient, automation with apps you already use can be done seamlessly. You can have the choice to do any actions autonomously or with your permission. You can decide what data to give access to and what not. As the AI has access to your personal life, it can already know what things to do and what not. This is true automation without any prompting from your side. No need of prompt engineering
 
 - **Security** : The problem of security is kind of hard to solve. But we can look into Zero Knowledge Proofs or ZKPs in the blockchain domain. The concept is simple. We train the model on data which is allowed to be seen and for the rest of the users, no one except the AI can access the data. This is not easy, but if solved can banish the age old fear of security breach. We need to prove to the world that this works to gain their confidence in safe sharing of the data. Considering everything, this is the most important feature of Sentient. Other than that, users can always decide whether to turn off the agent or which data they provide. Even though they should share max data with the agent to improve the results, it's totally optional. Some might view Sentient as solely a tool for business growth, some might enrich their personal lives, some both
-
-## Team
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<table>
-  <tr>
-     <td align="center">
-       <a href="https://github.com/itsskofficial">
-         <img src="https://avatars.githubusercontent.com/u/65887545?v=4?s=100" width="100px;" alt=""/>
-         <br />
-         <sub>
-           <b>
-             itsskofficial
-           </b>
-         </sub>
-       </a>
-       <br />
-       <a title="Design">
-         🎨
-       </a> 
-       <a title="Code">
-         💻
-       </a>
-     </td>  
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->  
-
 
 ## Contribute
 
