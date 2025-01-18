@@ -2,15 +2,19 @@
 
 ## Philosophy
 
-In a world often characterized by segmented efforts to serve specific aspects of existence, our startup envisions a paradigm shift – a departure from the conventional focus on humanity alone. Our philosophy centers around the upliftment of every form of existence, acknowledging the interconnectedness and interdependence that defines the fabric of our reality. Rather than limiting our efforts to the welfare of humanity, we embrace a holistic approach that encompasses all living beings, the environment, and even non-living entities. By recognizing the inherent value in every form of existence, we aim to break free from the siloed perspectives that have historically hindered true progress.
+At Existence, our mission is to innovate products that create a better future for all forms of life. We are committed to using sustainable development processes to create products that add value to the lives of our users.
 
-Our philosophy emphasizes the intricate web of interconnectedness that binds all forms of existence. The health and prosperity of humanity are inseparable from the well-being of the environment, the welfare of diverse ecosystems, and the delicate balance that extends to the non-living components of our world. Central to our vision is a commitment to sustainability and regeneration. We strive not only to sustain the vitality of individual forms of existence but also to actively contribute to the regeneration of ecosystems, communities, and the broader environment. This involves promoting practices that nurture rather than deplete, ensuring a legacy of abundance for future generations.
+## Products and Services
 
-We celebrate the diversity inherent in all forms of existence, recognizing that each contributes to the rich tapestry of life. Inclusivity is not confined to humanity; it extends to the myriad expressions of existence, fostering an environment where every entity is valued and empowered.As advocates for technological advancement, we believe in harnessing innovation to harmonize with the natural world. Our technological endeavors prioritize solutions that benefit all forms of existence, avoiding the pitfalls of progress that lead to the degradation of our planet and its inhabitants.
+At Existence, our mission is twofold: to craft groundbreaking products that redefine industries and to provide unparalleled services that empower our clients to thrive in a dynamic marketplace.
 
-Our startup embraces an ethical responsibility that transcends human-centric perspectives. We acknowledge the inherent rights of all forms of existence and commit to ethical practices that safeguard the well-being of every entity.
+### Product Innovation
 
-In ushering in a new era focused on existence itself, our startup seeks to redefine the boundaries of compassion, responsibility, and progress. By embracing the interconnected nature of all forms of existence, we aspire to contribute to a future where upliftment knows no bounds, extending its benevolent reach to every facet of our shared reality.
+Our commitment to innovation drives everything we do. From conceptualization to execution, we are relentless in our pursuit of groundbreaking products that push the boundaries of what's possible. With a focus on modern frameworks and cutting-edge tools, we engineer solutions that are not just functional but transformative, setting new standards for excellence in product development.
+
+### Service Excellence
+
+In addition to our passion for product innovation, we are equally dedicated to delivering exceptional services that meet the diverse needs of our clients. Whether it's web development, digital marketing, or consulting, our team of experts leverages their skills and experience to provide tailored solutions that drive tangible results. We understand that every client is unique, and we work closely with them to develop strategies that align with their goals and objectives.
 
 ## Product Selection Criteria
 
@@ -22,7 +26,15 @@ Looking at the above philosophy, we can envision a broad set of ideas that we ca
 - **Research Facility:** Selected projects should leverage our research facility to contribute to the generation of original ideas, advancements, and innovations. This may include conducting studies, publishing research papers, or exploring the potential for patenting unique concepts. The facility's resources should be used to drive the technical and scientific aspects of the project while maintaining a commitment to transparency and open knowledge sharing.
 - **Impact:** Projects we undertake should have a wider impact than our locality. We need to define clear ways to scale the project aiming towards maximum impact.
 
-A special task will be assigned to a team or individual to always check that any working product fits these rules.
+## Service Selection Criteria
+
+Similarly, when selecting clients for our services division, Existence upholds our core philosophies with utmost importance. Just as we adhere to stringent criteria in project selection for inhouse products, we apply similar principles when determining the clients we engage with. This ensures the following:
+
+- **Alignment with Our Core Values:** Our services should reflect and reinforce our holistic philosophy. This means they need to contribute positively to well-being, sustainability, and ethical business practices. We avoid services that could cause harm or conflict with our values, ensuring that our services promote inclusivity, environmental responsibility, and equitable outcomes for everyone involved.
+- **Positive Impact and Social Responsibility:** We aim to create a positive impact beyond just business goals by focusing on social responsibility, environmental sustainability, and community development, and prioritizing services that contribute to the common good, address social or environmental issues, or promote diversity and inclusivity. We evaluate the broader impact of each service to ensure it supports initiatives that make a tangible difference.
+- **Client Selection and Ethics:** We carefully vet potential clients to ensure they share our values and ethical principles. This involves assessing their business practices, industry, and reputation to avoid any association with activities or entities that conflict with our ethical stance. We engage with clients who are committed to social responsibility, sustainability, and fair practices, and we avoid those whose operations could pose a reputational risk or contradict our mission.
+
+A special task will be assigned to a team or individual to always check that any working product or service fits these rules.
 
 ## Community
 
